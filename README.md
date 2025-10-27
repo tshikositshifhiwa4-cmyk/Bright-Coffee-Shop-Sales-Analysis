@@ -33,7 +33,10 @@ Consistent sales patterns across all 3 locations indicate strong brand loyalty a
 
 # 🧰 Tools & Tech
 Planning-	Miro
+
 Database & Processing-	Snowflake, SQL
+
 Data Cleaning-	Excel
+
 Presentation-	PowerPoint
 
