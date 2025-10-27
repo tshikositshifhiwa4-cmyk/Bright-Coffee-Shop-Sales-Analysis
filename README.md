@@ -31,6 +31,8 @@ Consistent sales patterns across all 3 locations indicate strong brand loyalty a
  
 # 📂 Project Files
 https://github.com/tshikositshifhiwa4-cmyk/Bright-Coffee-Shop-Sales-Analysis/tree/c9eb3a475af5550c650dcbc390958bebfdd089f1/Input%20Data%20File%20(Project%20Description%20%2B%20Raw%20Data) 
+
+Input Data File (Project Description + Raw Data) 
 # 🧰 Tools & Tech
 Planning-	Miro
 
