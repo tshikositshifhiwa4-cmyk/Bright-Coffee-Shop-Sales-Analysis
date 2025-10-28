@@ -37,7 +37,7 @@ Consistent sales patterns across all 3 locations indicate strong brand loyalty a
 # 📂 Project Files
 https://github.com/tshikositshifhiwa4-cmyk/Bright-Coffee-Shop-Sales-Analysis/tree/c9eb3a475af5550c650dcbc390958bebfdd089f1/Input%20Data%20File%20(Project%20Description%20%2B%20Raw%20Data) -Input Data File (Project Description + Raw Data) 
 
-https://github.com/tshikositshifhiwa4-cmyk/Bright-Coffee-Shop-Sales-Analysis/tree/64e1dbfa1b121bc3c0a34d8bef0983c3b5f4029d/Output%20File%20(Final%20Presentation%20%2B%20SQL%20Script%3F -Output File (Final Presentation and SQL script)
+https://github.com/tshikositshifhiwa4-cmyk/Bright-Coffee-Shop-Sales-Analysis/tree/25feef207322fea37d87df2f28c36ef0c761aa3b/Output%20File%20(Presentation%20and%20SQL) -Output File (Final Presentation and SQL script)
 
 https://github.com/tshikositshifhiwa4-cmyk/Bright-Coffee-Shop-Sales-Analysis/tree/a10b8eaac3ebad5a328faf2f287f68370af18e5b/Working%20Files%20(excel%20%26%20Miro) -Working Files (excel and Miro)
 
