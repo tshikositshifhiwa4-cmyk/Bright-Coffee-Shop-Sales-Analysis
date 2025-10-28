@@ -19,6 +19,7 @@ The Coffee category contributes approximately 41% of total revenue, making it th
 4.Cappuccino (Large)
 
 5.Morning Sunrise Chai (Large)
+
 These premium beverages account for a significant share of total revenue, suggesting strong customer preference for high-quality, larger-sized drinks.
 
 ## 🌍 Location Insights:
