@@ -11,9 +11,13 @@ The Coffee category contributes approximately 41% of total revenue, making it th
 
 ## 💰 Top-Performing Products:
 1.Sustainably Grown Organic (Large)
+
 2.Dark Chocolate (Large)
+
 3.Latte (Regular)
+
 4.Cappuccino (Large)
+
 5.Morning Sunrise Chai (Large)
 These premium beverages account for a significant share of total revenue, suggesting strong customer preference for high-quality, larger-sized drinks.
 
