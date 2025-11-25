@@ -33,13 +33,6 @@ Consistent sales patterns across all 3 locations indicate strong brand loyalty a
 5. Automate daily sales dashboards in Power BI for real-time performance tracking.
 6. Plan future expansion by analyzing high-performing store locations and customer demand patterns.
 7. Integrate customer data and predictive analytics for better forecasting and retention strategies.
- 
-# 📂 Project Files
-https://github.com/tshikositshifhiwa4-cmyk/Bright-Coffee-Shop-Sales-Analysis/tree/c9eb3a475af5550c650dcbc390958bebfdd089f1/Input%20Data%20File%20(Project%20Description%20%2B%20Raw%20Data) -Input Data File (Project Description + Raw Data) 
-
-https://github.com/tshikositshifhiwa4-cmyk/Bright-Coffee-Shop-Sales-Analysis/tree/25feef207322fea37d87df2f28c36ef0c761aa3b/Output%20File%20(Presentation%20and%20SQL) -Output File (Final Presentation and SQL script)
-
-https://github.com/tshikositshifhiwa4-cmyk/Bright-Coffee-Shop-Sales-Analysis/tree/a10b8eaac3ebad5a328faf2f287f68370af18e5b/Working%20Files%20(excel%20%26%20Miro) -Working Files (excel and Miro)
 
 # 🧰 Tools & Tech
 Planning-	Miro
