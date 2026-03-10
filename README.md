@@ -1,4 +1,4 @@
-# ☕Tamara changed the heading
+# ☕Bright-Coffee-Shop-Sales-Analysis
 ## 📋 Project Overview
 This project analyzes historical transactional data from Bright Coffee Shop to uncover insights that can guide business growth and performance improvements. The analysis supports the new CEO in understanding which products drive revenue, when sales peak, and where opportunities exist to increase profitability.
 
