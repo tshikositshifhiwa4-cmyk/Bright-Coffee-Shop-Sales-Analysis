@@ -43,3 +43,5 @@ Data Cleaning-	Excel
 
 Presentation-	PowerPoint
 
+visualisation- powerBI
+
