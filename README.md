@@ -1,12 +1,17 @@
 # ☕Bright-Coffee-Shop-Sales-Analysis
+
 ## 📋 Project Overview
+
 This project analyzes historical transactional data from Bright Coffee Shop to uncover insights that can guide business growth and performance improvements. The analysis supports the new CEO in understanding which products drive revenue, when sales peak, and where opportunities exist to increase profitability.
 
 # 📊 Summary of Findings
+
 ## ☀️ Morning Rush Dominance:
+
 Most transactions and revenue occur between 7:00 AM and 11:00 AM, confirming that mornings are the most profitable hours. The peak sales hour is 10:00 AM, aligning with daily coffee demand.
 
 ## ☕ Coffee Leads in Revenue:
+
 The Coffee category contributes approximately 41% of total revenue, making it the shop’s top-performing product line. Tea follows as the second-highest contributor, while Bakery and Chocolate items show moderate performance.
 
 ## 💰 Top-Performing Products:
